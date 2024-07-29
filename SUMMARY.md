@@ -4,7 +4,7 @@
 * [Начать игру](nachat-igru/README.md)
   * [Играть с Bedrock](nachat-igru/igrat-s-bedrock.md)
 * [Моды и ресурсы](mody-i-resursy/README.md)
-  * [Модельные эмоции](mody-i-resursy/modelnye-emocii.md)
+  * [Модельный скин](mody-i-resursy/modelnyi-skin.md)
   * [Голосовой чат](mody-i-resursy/golosovoi-chat.md)
   * [Ресурспак сервера](mody-i-resursy/resurspak-servera.md)
 * [Правила сервера](pravila-servera.md)
