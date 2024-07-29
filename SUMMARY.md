@@ -1,0 +1,16 @@
+# Table of contents
+
+* [Вики wavacat](README.md)
+* [Начать игру](nachat-igru/README.md)
+  * [Играть с Bedrock](nachat-igru/igrat-s-bedrock.md)
+* [Моды и ресурсы](mody-i-resursy/README.md)
+  * [Модельные эмоции](mody-i-resursy/modelnye-emocii.md)
+  * [Голосовой чат](mody-i-resursy/golosovoi-chat.md)
+  * [Ресурспак сервера](mody-i-resursy/resurspak-servera.md)
+* [Правила сервера](pravila-servera.md)
+* [Механики и команды](mekhaniki-i-komandy/README.md)
+  * [Чат](mekhaniki-i-komandy/chat.md)
+  * [Кастомные крафты](mekhaniki-i-komandy/kastomnye-krafty.md)
+  * [Пиво](mekhaniki-i-komandy/pivo.md)
+  * [Банк?](mekhaniki-i-komandy/bank.md)
+  * [Мелкие плагины](mekhaniki-i-komandy/melkie-plaginy.md)
